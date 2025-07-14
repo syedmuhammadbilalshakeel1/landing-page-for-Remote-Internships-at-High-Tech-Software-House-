@@ -62,7 +62,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(to right, #4f46e5, #7c3aed);
+background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/cffd94c7-62be-4295-a109-7be6441a3da6.png') no-repeat center center/cover;;
   color: white;
   text-align: center;
   padding: 2rem;
